@@ -55,7 +55,7 @@ namespace webAPIClient
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("Error. Please enter a valid Anime name!");
+                    Console.WriteLine("Error. Please enter a valid Anime ID!");
                 }
             }
         }
